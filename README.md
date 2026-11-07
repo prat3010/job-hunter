@@ -54,7 +54,8 @@ Ensure you have Python 3.10+ and Node.js 18+ installed:
 
 ```bash
 # Clone or navigate to the directory
-cd /Users/prateeksharma/Developer/job-hunter
+git clone https://github.com/prat3010/job-hunter.git
+cd job-hunter
 
 # Run the 1-click native boot script
 ./launch.sh
